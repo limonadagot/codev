@@ -1,3 +1,2 @@
 # codev
-Plataforma Codev 
-Esta es una plataforma
+Plataforma Codev LIMONADA RULZ
